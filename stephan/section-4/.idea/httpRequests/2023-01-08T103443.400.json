@@ -1,0 +1,7 @@
+{
+  "statusCode": 400,
+  "message": [
+    "content must be a string"
+  ],
+  "error": "Bad Request"
+}
